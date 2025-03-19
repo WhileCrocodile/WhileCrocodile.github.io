@@ -1,11 +1,14 @@
-# Data Analyst
+# Data Analyst, Scientist
 
 ## Education
 B.A. Statistics from Binghamton University (December 2024)
 
 ## Course Projects
+
 ### Road Damage Detection System with YOLO
 We trained an object detection system based on the YOLO object detection CNN (convolutional neural network) to detect the size and location of road damage using smartphone images. 
+
+![A side-by-side comparison of actual road damage in images, indicated by colored boxes, and the predictions made by the algorithm.](/assets/images/roaddamage_predictions.png "Road damage predictions")
 
 ### Political Fake News Text Analysis
 We applied text mining and statistical modeling techniques to extract trends and biases from the WELFAKE dataset, which consists of over 70,000 real and fake news articles centered around 2016. We were able to train both a random forest model and neural network to identify fake news within the dataset to an accuracy of over 92% and 98%, respectively.
