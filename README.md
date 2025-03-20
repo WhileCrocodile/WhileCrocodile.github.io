@@ -1,4 +1,4 @@
-# Data Analyst, Scientist
+# Entry-Level Data Scientist
 ###### Under construction!
 
 ## Education
@@ -7,12 +7,16 @@ B.A. Statistics from Binghamton University (December 2024)
 ## Course Projects
 
 ### Road Damage Detection System with YOLO
-We trained an object detection system based on the YOLO object detection CNN (convolutional neural network) to detect the size and location of road damage using smartphone images. 
+We trained an object detection system based on the YOLO object detection CNN (convolutional neural network) to detect the size and location of road damage using smartphone images.
 
-![A side-by-side comparison of actual road damage in images, indicated by colored boxes, and the predictions made by the algorithm.](/assets/images/roaddamage_predictions.png "Road damage predictions")
+You can [test-run our work in Google Colab](https://colab.research.google.com/drive/1ntKCAkGmbv1wwOVDDFbN7EZw6u2nvHk9?usp=sharing) by selecting an appropriate GPU (such as T4) at the top right of the notebook.
+[![A side-by-side comparison of actual road damage in images, indicated by colored boxes, and the predictions made by the algorithm.](/assets/images/roaddamage_predictions.png "Road damage predictions")](https://colab.research.google.com/drive/1ntKCAkGmbv1wwOVDDFbN7EZw6u2nvHk9?usp=sharing)
 
 ### Political Fake News Text Analysis
 We applied text mining and statistical modeling techniques to extract trends and biases from the WELFAKE dataset, which consists of over 70,000 real and fake news articles centered around 2016. We were able to train both a random forest model and neural network to identify fake news within the dataset to an accuracy of over 92% and 98%, respectively.
+
+You can view our [final paper and dashboard here](politicalmisinformation_paper.md).
+
 
 ### Stormfront Hate Speech Text Mining Analysis
 We applied data visualization, text mining, and statistical modelling techniques to identify rhetorical patterns using a dataset of over 10,000 sentences sampled from the white supremacist forum Stormfront. We were able to detect some key white supremacist ideologies within the text, including beliefs in antisemitism, xenophobia, model minorities, and ethnic discrimination. We also trained a support vector machine and bert-base-uncased transformer to identify hate speech.
