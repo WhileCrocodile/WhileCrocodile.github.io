@@ -4,7 +4,10 @@
 ## Education
 B.A. Statistics from Binghamton University (December 2024)
 
+
 ## Course Projects
+
+### [Data Visualizations with Tableau](https://public.tableau.com/app/profile/evan.liu1631/vizzes)
 
 ### Road Damage Detection System with YOLO
 We trained an object detection system based on the YOLO object detection CNN (convolutional neural network) to detect the size and location of road damage using smartphone images.
