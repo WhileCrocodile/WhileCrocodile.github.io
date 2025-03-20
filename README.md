@@ -15,7 +15,7 @@ You can [test-run our work in Google Colab](https://colab.research.google.com/dr
 ### Political Fake News Text Analysis
 We applied text mining and statistical modeling techniques to extract trends and biases from the WELFAKE dataset, which consists of over 70,000 real and fake news articles centered around 2016. We were able to train both a random forest model and neural network to identify fake news within the dataset to an accuracy of over 92% and 98%, respectively.
 
-You can view our [final paper and dashboard here](politicalmisinformation_paper.md).
+You can [click here to read our final paper](https://docs.google.com/presentation/d/e/2PACX-1vTT3efndVosqPZP-4bEGdedxYELHB6EyjXsNy6uNGDYo_Uen7yAYHpO-twHMhoo3Q/pub?start=false&loop=false&delayms=3000) and [here to see our dashboard](politicalmisinformation_paper.md).
 
 
 ### Stormfront Hate Speech Text Mining Analysis
