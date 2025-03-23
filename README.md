@@ -4,10 +4,15 @@
 ## Education
 B.A. Statistics from Binghamton University (December 2024)
 
+## Personal Projects
+
+### SQL Projects for Practice
+A [Github page for the personal projects and exercises](https://github.com/WhileCrocodile/sql-projects) I've completed to practice SQL.
 
 ## Course Projects
 
-### [Data Visualizations with Tableau](https://public.tableau.com/app/profile/evan.liu1631/vizzes)
+### Data Visualizations with Tableau
+A [collection of data visualizations](https://public.tableau.com/app/profile/evan.liu1631/vizzes) I've completed in Tableau Public.
 
 ### Road Damage Detection System with YOLO
 We trained an object detection system based on the YOLO object detection CNN (convolutional neural network) to detect the size and location of road damage using smartphone images.
