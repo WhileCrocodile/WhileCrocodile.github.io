@@ -28,6 +28,7 @@ You can [click here to read our final paper](https://docs.google.com/document/d/
 ### Stormfront Hate Speech Text Mining Analysis
 We applied data visualization, text mining, and statistical modelling techniques to identify rhetorical patterns using a dataset of over 10,000 sentences sampled from the white supremacist forum Stormfront. We were able to detect some key white supremacist ideologies within the text, including beliefs in antisemitism, xenophobia, model minorities, and ethnic discrimination. We also trained a support vector machine and bert-base-uncased transformer to identify hate speech.
 
+You can [click here to explore a Google Slides presentation](https://docs.google.com/presentation/d/e/2PACX-1vRIN3dkRy-j_8wWXKwKABItGZbZ65GiZRStmj_kR3TEjO76mgH9VkFdYQ1LHLrtfQ/pub?start=false&loop=false&delayms=3000) I did on the topic.
 
 ### Georgia Parole Recidivism Analysis
 We investigated trends in a U.S Department of Justice dataset of over 26,000 individuals released from prisons in the State of Georgia under discretionary parole. We employed data visualization methods, fundamental statistical techniques, and linear models to explore connections between personal backgrounds, criminal histories, and recidivism outcomes.
