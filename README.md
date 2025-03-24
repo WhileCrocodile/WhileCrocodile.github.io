@@ -1,8 +1,7 @@
 # Entry-Level Data Scientist
-###### Under construction!
 
 ## Education
-B.A. Statistics from Binghamton University (December 2024)
+B.A. Statistics from Binghamton University (August 2021 - December 2024)
 
 ## Personal Projects
 
