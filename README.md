@@ -1,4 +1,4 @@
-# Entry-Level Data Scientist
+# Entry-Level Data Analyst
 
 ## Education
 B.A. Statistics from Binghamton University (August 2021 - December 2024)
