@@ -3,6 +3,10 @@
 ## Education
 B.A. Statistics from Binghamton University (August 2021 - December 2024)
 
+## Personal Projects
+### SQL Projects
+A [series of small projects](https://github.com/WhileCrocodile/sql-projects/tree/main) I am completing to learn and practice queries with SQL.
+
 ## Course Projects
 
 ### Data Visualizations with Tableau
